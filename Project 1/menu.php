@@ -18,6 +18,16 @@
                         <div class="sb-nav-link-icon"><i class="fas fa-hospital-user"></i></div>
                         Pasien
                     </a>
+
+                    <a class="nav-link" href="periksa.php">
+                        <div class="sb-nav-link-icon"><i class="fas fa-hospital"></i></div>
+                        Periksa
+                    </a>
+
+                    <a class="nav-link" href="paramedik.php">
+                        <div class="sb-nav-link-icon"><i class="fas fa-hospital"></i></div>
+                        Paramedik
+                    </a>
                 </div>
             </div>
             <div class="sb-sidenav-footer">
